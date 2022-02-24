@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://gvbp.github.io/project-reactjs/static/css/main.66cf0bd6.css",
-    "main.js": "https://gvbp.github.io/project-reactjs/static/js/main.a20d0bae.js",
-    "static/media/img-2.jpg": "https://gvbp.github.io/project-reactjs/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/img-1.jpg": "https://gvbp.github.io/project-reactjs/static/media/img-1.53f4843759ebec256cb9.jpg",
-    "static/media/img-8.jpg": "https://gvbp.github.io/project-reactjs/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "index.html": "https://gvbp.github.io/project-reactjs/index.html",
-    "main.66cf0bd6.css.map": "https://gvbp.github.io/project-reactjs/static/css/main.66cf0bd6.css.map",
-    "main.a20d0bae.js.map": "https://gvbp.github.io/project-reactjs/static/js/main.a20d0bae.js.map"
+    "main.css": "/project-reactjs/static/css/main.d63e9805.css",
+    "main.js": "/project-reactjs/static/js/main.9304c0be.js",
+    "static/media/img-2.jpg": "/project-reactjs/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/project-reactjs/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/project-reactjs/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/project-reactjs/index.html",
+    "main.d63e9805.css.map": "/project-reactjs/static/css/main.d63e9805.css.map",
+    "main.9304c0be.js.map": "/project-reactjs/static/js/main.9304c0be.js.map"
   },
   "entrypoints": [
-    "static/css/main.66cf0bd6.css",
-    "static/js/main.a20d0bae.js"
+    "static/css/main.d63e9805.css",
+    "static/js/main.9304c0be.js"
   ]
 }
